@@ -12,7 +12,7 @@
 
 > Repondre ici.
 
-## Afficher les utilisateurs dont la ville est : Bordeaux
+## Afficher les utilisateurs dont la ville est : Paris
 
 > Repondre ici.
 
