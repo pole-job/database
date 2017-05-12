@@ -30,8 +30,28 @@ CREATE TABLE `cities` (
 --
 
 INSERT INTO `cities` (`id`, `name`) VALUES
+(6, 'argenteuil'),
+(10, 'aubervilliers'),
+(9, 'aulnay-sous-bois'),
+(5, 'bondy'),
 (2, 'Bordeaux'),
-(1, 'Paris');
+(12, 'chelles'),
+(16, 'clamart'),
+(19, 'clichy'),
+(13, 'épinay-sur-seine'),
+(17, 'évry'),
+(20, 'fontenay-sous-bois'),
+(11, 'le blanc-mesnil'),
+(21, 'maisons-Alfort'),
+(7, 'montreuil'),
+(3, 'noisy-le-sec\r\n'),
+(4, 'pantin'),
+(1, 'Paris'),
+(8, 'saint-denis'),
+(14, 'sevran'),
+(18, 'startrouville'),
+(15, 'villejuif');
+
 
 -- --------------------------------------------------------
 
